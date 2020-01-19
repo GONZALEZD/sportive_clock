@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Cloudy">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Cloudy" clip-path="url(#clip-Cloudy)">
+    <path id="path16" d="M55.807,40.925A17.114,17.114,0,1,0,40.925,66.968H85.57a16.742,16.742,0,1,0,0-33.484" transform="translate(-13.559 1.571)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+    <path id="path18" d="M78.129,44.645A18.6,18.6,0,1,0,48.366,33.484" transform="translate(-13.559 1.591)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+  </g>
+</svg>

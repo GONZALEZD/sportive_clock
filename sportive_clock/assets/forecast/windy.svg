@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Windy">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Windy" clip-path="url(#clip-Windy)">
+    <path id="path16" d="M10.4,66.968H85.57c9.246,0,11.567-5.786,11.537-9.363s-2.291-9.124-11.537-9.124" transform="translate(-5.559 -12.481)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+    <path id="path16-2" data-name="path16" d="M40.925,66.968H85.57c9.246,0,11.567-5.786,11.537-9.363s-2.291-9.124-11.537-9.124" transform="translate(-33.559 -21.481)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+    <path id="path16-3" data-name="path16" d="M32.819,48.481H85.57c9.246,0,11.567,5.786,11.537,9.363s-2.291,9.124-11.537,9.124" transform="translate(-18.559 15.019)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+  </g>
+</svg>

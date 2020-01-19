@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Snowy">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Snowy" clip-path="url(#clip-Snowy)">
+    <g id="Group_9" data-name="Group 9" transform="translate(-1 -3)">
+      <path id="path30" d="M55.807,40.925A17.114,17.114,0,1,0,40.925,66.968h3.72" transform="translate(-12.559 2.898)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+      <path id="path32" d="M81.85,66.968h3.72a16.742,16.742,0,1,0,0-33.484" transform="translate(-12.559 2.898)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+      <path id="path34" d="M78.129,44.645A18.6,18.6,0,1,0,48.366,33.484" transform="translate(-12.559 2.898)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(-6 -9)">
+      <line id="line68" x2="14" transform="translate(45.969 72.914) rotate(-20)" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+      <line id="line70" x2="14" transform="matrix(0.766, 0.643, -0.643, 0.766, 47.648, 66.388)" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+      <path id="line72" d="M0,0H14" transform="translate(53.737 64.08) rotate(100)" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(7 7)">
+      <line id="line68-2" data-name="line68" x2="14" transform="translate(45.969 72.914) rotate(-20)" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+      <line id="line70-2" data-name="line70" x2="14" transform="matrix(0.766, 0.643, -0.643, 0.766, 47.648, 66.388)" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+      <path id="line72-2" data-name="line72" d="M0,0H14" transform="translate(53.737 64.08) rotate(100)" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(-13 17)">
+      <line id="line68-3" data-name="line68" x2="14" transform="translate(45.969 72.914) rotate(-20)" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+      <line id="line70-3" data-name="line70" x2="14" transform="matrix(0.766, 0.643, -0.643, 0.766, 47.648, 66.388)" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+      <path id="line72-3" data-name="line72" d="M0,0H14" transform="translate(53.737 64.08) rotate(100)" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

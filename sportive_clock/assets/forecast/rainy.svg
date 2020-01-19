@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Rainy">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Rainy" clip-path="url(#clip-Rainy)">
+    <g id="Group_9" data-name="Group 9" transform="translate(-1.003 -2.997)">
+      <path id="path30" d="M55.807,40.925A17.114,17.114,0,1,0,40.925,66.968h3.72" transform="translate(-12.559 2.898)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+      <path id="path32" d="M81.85,66.968h3.72a16.742,16.742,0,1,0,0-33.484" transform="translate(-12.559 2.898)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+      <path id="path34" d="M78.129,44.645A18.6,18.6,0,1,0,48.366,33.484" transform="translate(-12.559 2.898)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4"/>
+    </g>
+    <line id="Line_24" data-name="Line 24" y1="28" x2="16" transform="translate(27.5 59.5)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4" stroke-dasharray="6 6"/>
+    <line id="Line_25" data-name="Line 25" y1="37" x2="21" transform="translate(34.5 55.5)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4" stroke-dasharray="6 6"/>
+    <line id="Line_26" data-name="Line 26" y1="26" x2="15" transform="translate(47.5 62.5)" fill="none" stroke="#0089ff" stroke-linecap="round" stroke-width="4" stroke-dasharray="6 6"/>
+  </g>
+</svg>
